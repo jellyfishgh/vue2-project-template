@@ -1,0 +1,6 @@
+{
+  "demo": {
+    "name": "demo",
+    "template": "src/demo/index.html"
+  }
+}
